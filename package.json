@@ -1,0 +1,25 @@
+{
+  "name": "TopView_Challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelicityZhang/TopView_Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelicityZhang/TopView_Challenge/issues"
+  },
+  "homepage": "https://github.com/FelicityZhang/TopView_Challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.12.1",
+    "sequelize": "^5.15.2"
+  }
+}
